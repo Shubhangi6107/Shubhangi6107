@@ -1,4 +1,4 @@
-![banner](https://github.com/Shubhangi6107/Shubhangi6107/blob/main/Banner.png)
+![background](https://github.com/Shubhangi6107/Shubhangi6107/blob/main/Background.jpg)
 <h1 align="center">Hi 👋, I'm Shubhangi Gupta</h1>
 <h3 align="center">📊 Passionate Data Analyst | Power BI Enthusiast 🚀</h3>
 
